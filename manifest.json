@@ -1,0 +1,10 @@
+{
+  "name": "我的 PWA",
+  "icons": [
+    {
+      "src": "icons/wechat.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+}
